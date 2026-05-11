@@ -9,7 +9,7 @@
 
 The **Viber Spammer Tool 2026** represents the pinnacle of messaging automation technology, completely redesigned for maximum performance and reliability in the modern digital landscape. Experience unprecedented control over your Viber communications with our cutting-edge software.
 
-## ✨ Key Features
+## ✨ Key Features:
 
 - **⚡ Blazing Fast Performance** - Optimized algorithms for instant message delivery
 - **🎯 Precision Targeting** - Advanced contact management and filtering system
